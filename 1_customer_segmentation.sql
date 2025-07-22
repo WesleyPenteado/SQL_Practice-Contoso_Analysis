@@ -36,4 +36,10 @@ ORDER BY
 
 
 
+SELECT *
+FROM sales
+LIMIT 10
+
+
+
 
