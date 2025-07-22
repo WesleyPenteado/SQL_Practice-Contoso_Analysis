@@ -1,0 +1,14 @@
+[
+  {
+    "customer_segment": "3 -High-Value",
+    "total_ltv": "135429277.30"
+  },
+  {
+    "customer_segment": "2 - Mid-Value",
+    "total_ltv": "66636451.87"
+  },
+  {
+    "customer_segment": "1 - Low_Value",
+    "total_ltv": "4341809.11"
+  }
+]
