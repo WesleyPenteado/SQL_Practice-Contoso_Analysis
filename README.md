@@ -1,7 +1,9 @@
 # Intermediate SQL - Sales Analysis
 
 ## Overview
-{Insert Here}
+    This repository contains the analysis developed during my SQL for Data Analytics course from Luke Barousse's channel. You will find SQL queries and business insights I used for practice and learning.
+
+🎥 **Full Course**: [SQL for Data Analytics – Luke Barousse](https://www.youtube.com/watch?v=QKIGsShyEsQ)
 
 ## Business Question
 1. **Customer Segmentation:** Who are the most valuable customers.
